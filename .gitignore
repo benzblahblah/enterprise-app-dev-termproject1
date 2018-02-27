@@ -1,0 +1,13 @@
+
+# start Netbeans gitignore
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+# ends Netbeans gitignore
+
+# Craft Storage (cache) [http://buildwithcraft.com/help/craft-storage-gitignore]
+/craft/storage/*
+!/craft/storage/logo/*
