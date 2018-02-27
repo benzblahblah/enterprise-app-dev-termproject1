@@ -1,2 +1,2 @@
-# enterprise-app-dev-termproject1
+# Enterprise Application Development MOCK SERVER
 Term Project 1
