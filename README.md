@@ -1,2 +1,1 @@
-# Enterprise Application Development MOCK SERVER
-Term Project 1
+# Enterprise Application Development POS SERVER
